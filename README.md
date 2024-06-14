@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering frontend precisely
 - 🌱 I’m done with html and css
 - currently on javascript(js)
-- im finding it hard and corny buh i will get it 
+- js keeps getting intresting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  +2349046220634
 
