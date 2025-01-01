@@ -1,16 +1,10 @@
 # Hi there! 👋  
-I’m @mubee316, a passionate learner and aspiring frontend software engineer.  
+I’m @mubee316, a frontend developer passionate about building user-friendly and responsive web applications.  
 
-- 🌟 I’m skilled in HTML and CSS and currently deepening my knowledge in JavaScript.  
-- 🚀 Exploring React.js, which I find both fun and incredibly efficient.  
-- 💡 JavaScript keeps becoming more interesting with every project I take on!  
-- 🤝 I’m open to collaborating on exciting frontend projects and innovative ideas.  
-- 📫 Feel free to reach me at +2349046220634.  
+- I work with **HTML**, **CSS**, **JavaScript**, and **TypeScript**.  
+- I’m currently improving my skills in **React.js** and enjoying working with **Tailwind CSS**.  
+- I love creating clean and functional designs that deliver great user experiences.  
+- I’m always open to collaborating on interesting projects and exploring new ideas.  
+- You can reach me at +2349046220634.  
 
-Let’s create amazing web experiences together!
-
-
-<!--
-mubee316/mubee316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s build something great together!
